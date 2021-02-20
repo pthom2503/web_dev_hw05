@@ -1,0 +1,16 @@
+/*
+taken from lecture notes
+*/
+p {
+    font-size: 20pt;
+    white-space: pre;
+}
+
+div {
+    color: black;
+}
+
+button {
+    background-color: midnightblue;
+    border-color: midnightblue;
+}
