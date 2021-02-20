@@ -1,3 +1,4 @@
+#some structuring from lecture notes
 defmodule Bulls.Game do
   # This module doesn't do stuff,
   # it computes stuff.

@@ -1,3 +1,4 @@
+#taken from lecture notes
 defmodule BullsWeb.UserSocket do
   use Phoenix.Socket
 

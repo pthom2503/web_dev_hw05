@@ -1,3 +1,4 @@
+#taken from lecture notes
 defmodule Bulls.Application do
   # See https://hexdocs.pm/elixir/Application.html
   # for more information on OTP Applications

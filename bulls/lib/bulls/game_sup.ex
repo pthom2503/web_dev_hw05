@@ -1,3 +1,4 @@
+#taken from lecture notes
 defmodule Bulls.GameSup do
   use DynamicSupervisor
 

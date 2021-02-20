@@ -1,3 +1,4 @@
+#taken from lecture notes
 defmodule Bulls.GameServer do
   use GenServer
 

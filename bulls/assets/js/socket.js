@@ -1,3 +1,4 @@
+//taken from lecture notes
 import {Socket} from "phoenix";
 
 let socket = new Socket(

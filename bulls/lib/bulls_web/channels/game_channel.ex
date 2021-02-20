@@ -1,3 +1,4 @@
+#taken from lecture notes
 defmodule BullsWeb.GameChannel do
   use BullsWeb, :channel
 
